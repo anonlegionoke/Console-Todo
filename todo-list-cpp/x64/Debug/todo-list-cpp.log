@@ -1,0 +1,3 @@
+﻿  todo-list-cpp.cpp
+C:\Users\smraz\Documents\todo-list-cpp\todo-list-cpp\todo-list-cpp.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  todo-list-cpp.vcxproj -> C:\Users\smraz\Documents\todo-list-cpp\x64\Debug\todo-list-cpp.exe
