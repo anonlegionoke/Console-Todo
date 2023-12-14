@@ -1,5 +1,5 @@
 # Todo Lister (Console-Todo)
-Console Todo App written in C++
+Console Todo App written in C++.
 This straightforward and simple application generates a random id for each todo task when a new task is added, and you can use the same id to mark it as completed.
 # Add a new Todo
 Type `a` and press <kbd>Enter</kbd> to add a new Todo
